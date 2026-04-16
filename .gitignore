@@ -1,0 +1,3 @@
+node_modules/ 
+trinity/node_modules/ 
+.env 
